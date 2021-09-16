@@ -1,6 +1,7 @@
 # Living Building
 https://ngsuwen.github.io/living-building/suwen-ng
-This was my very first attempt in creating my own webpage! The code is very messy but I think its not a bad attempt for a first timer, right? 
+
+This was my very first attempt in creating my own webpage during my free time after my thesis! The code is very messy but I think its not a bad attempt for a first timer, right? :satisfied:
 
 ## Technologies
 * **HTML**
